@@ -17,3 +17,13 @@ a:visited {color:#AA00AA}
 	padding:10px;
 	margin:10px;
 	}
+	
+.btn{
+	background:#AAAAFF;
+	border: 5px solid #0000AA;
+	text-align: center;
+	display:inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
